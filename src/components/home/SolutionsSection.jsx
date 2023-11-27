@@ -5,7 +5,7 @@ const SolutionsSection = () => {
   return (
     <div className="bg-[#F7E7E6] py-14">
       <div className="w-11/12 mx-auto">
-        <div className="grid grid-cols-2 gap-10">
+        <div className="grid md:grid-cols-2 grid-cols-1 gap-10">
           <div>
             <p>WE SPECIALIZE IN</p>
             <p className="text-[40px] font-bold text-[#CC0000]">

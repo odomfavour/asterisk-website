@@ -6,10 +6,10 @@ const HeaderSection = () => {
   return (
     <nav className='py-4 bg-[#F0F0F0] border border-[BFBFBF]'>
         <div className="w-11/12 mx-auto">
-            <div className="flex flex-col md:flex-row md:items-center items-start justify-between">
+            <div className="flex md:flex-row md:items-center items-start justify-between">
                 <img src={logo} alt="" />
                 <div>
-                    <ul className='md:flex items-center gap-8 hidden'>
+                    <ul className='md:flex items-center gap-8 '>
                         <li className=''>
                             <Link to="#" className='text-base font-semibold'>Home</Link>
                         </li>

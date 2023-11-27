@@ -1,10 +1,9 @@
-import React from "react";
 
 const ComingSection = () => {
   return (
     <div className="py-14 bg-[#302F27] text-white">
       <div className="w-11/12 mx-auto">
-        <div className="grid grid-cols-2 gap-10">
+        <div className="grid md:grid-cols-2 grid-cols-1  gap-10">
           <div>
             <p className="text-lg font-bold">— Coming Soon</p>
             <p className="text-[36px] font-bold">Get Notified</p>
