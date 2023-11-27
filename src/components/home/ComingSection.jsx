@@ -6,7 +6,7 @@ const ComingSection = () => {
         <div className="grid md:grid-cols-2 grid-cols-1  gap-10">
           <div>
             <p className="text-lg font-bold">— Coming Soon</p>
-            <p className="text-[36px] font-bold">Get Notified</p>
+            <p className="text-[40px] font-bold">Get Notified</p>
             <p className="text-[32px] font-bold">When we Launch</p>
             <p className="text-base font-bold">*Don’t worry, we wil not spam you :)</p>
           </div>

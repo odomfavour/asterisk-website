@@ -7,7 +7,7 @@ const SolutionsSection = () => {
       <div className="w-11/12 mx-auto">
         <div className="grid md:grid-cols-2 grid-cols-1 gap-10">
           <div>
-            <p>WE SPECIALIZE IN</p>
+            <p className='text-lg font-medium'>WE SPECIALIZE IN</p>
             <p className="text-[40px] font-bold text-[#CC0000]">
               DIGITAL
               <br /> BUSINESS <br /> SOLUTIONS
@@ -24,7 +24,7 @@ const SolutionsSection = () => {
               we stand ready to pioneer transformative technology, aiding
               clients in thriving within the digital landscape.
             </p>
-            <div>
+            <div className='mt-6'>
                 <img src={solution} alt="" className='w-full'/>
             </div>
           </div>

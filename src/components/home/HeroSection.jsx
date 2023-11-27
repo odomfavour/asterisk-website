@@ -10,7 +10,7 @@ const HeroSection = () => {
             </div>
             <div className='flex items-center'>
                 <div>
-                <p className='text-[#000000]'>DELIVERING</p>
+                <p className='text-[#000000] text-[25px] font-semibold'>DELIVERING</p>
                 <p className='font-bold text-[60px] text-[#CC0000]'>FUTURE</p>
                 <p className='text-[#CC0000] text-[50px]'>SOLUTIONS</p>
                 <p className='text-[30px] font-semibold'>TODAY</p>
