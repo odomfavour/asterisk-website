@@ -10,11 +10,11 @@ const HeroSection = () => {
             </div>
             <div className='flex items-center'>
                 <div>
-                <p className='text-[#000000] text-[25px] font-semibold'>DELIVERING</p>
-                <p className='font-bold text-[60px] text-[#CC0000]'>FUTURE</p>
-                <p className='text-[#CC0000] text-[50px]'>SOLUTIONS</p>
+                <p className='text-[#000000] text-[25px] font-semibold mb-0 leading-[40px]'>DELIVERING</p>
+                <p className='font-bold text-[80px] text-[#CC0000] mb-0 leading-[70px]'>FUTURE</p>
+                <p className='text-[#CC0000] text-[70px] mb-0 leading-[60px]'>SOLUTIONS</p>
                 <p className='text-[30px] font-semibold'>TODAY</p>
-                <p className='text-lg font-light'>THROUGH ACTIVE</p>
+                <p className='text-lg font-light leading-[20px]'>THROUGH ACTIVE</p>
                 <p className='text-lg font-light text-[#CC0000]'>PRODUCT RESEARCH & DEVELOPMENT</p>
                 </div>
             </div>

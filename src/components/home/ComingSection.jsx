@@ -5,8 +5,8 @@ const ComingSection = () => {
       <div className="w-11/12 mx-auto">
         <div className="grid md:grid-cols-2 grid-cols-1  gap-16">
           <div>
-            <p className="text-2xl font-bold">— Coming Soon</p>
-            <p className="text-[54px] font-bold">Get Notified</p>
+            <p className="text-2xl font-bold mb-2">— Coming Soon</p>
+            <p className="text-[54px] font-bold leading-[45px]">Get Notified</p>
             <p className="text-[38px] font-bold">When we Launch</p>
             <p className="text-base font-bold">*Don’t worry, we wil not spam you :)</p>
           </div>

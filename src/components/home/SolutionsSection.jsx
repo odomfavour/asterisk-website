@@ -7,7 +7,7 @@ const SolutionsSection = () => {
         <div className="grid md:grid-cols-2 grid-cols-1 gap-14">
           <div>
             <p className="text-lg font-medium">WE SPECIALIZE IN</p>
-            <p className="text-[40px] font-bold text-[#CC0000]">
+            <p className="text-[40px] font-bold text-[#CC0000] leading-[45px]">
               DIGITAL
               <br /> BUSINESS <br /> SOLUTIONS
             </p>
