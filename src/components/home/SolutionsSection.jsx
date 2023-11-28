@@ -1,10 +1,10 @@
-import solution from "../../assets/images/drone.svg";
+import solution from "../../assets/images/solutions.svg";
 
 const SolutionsSection = () => {
   return (
     <div className="bg-[#F7E7E6] py-14">
       <div className="w-11/12 mx-auto">
-        <div className="grid md:grid-cols-2 grid-cols-1 gap-14">
+        <div className="grid md:grid-cols-2 grid-cols-1 gap-[60px]">
           <div>
             <p className="text-lg font-medium">WE SPECIALIZE IN</p>
             <p className="text-[40px] font-bold text-[#CC0000] leading-[45px]">

@@ -18,9 +18,9 @@ const ComingSection = () => {
                   type="text"
                   id="default-input"
                   placeholder="Enter your email address"
-                  className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-[100px] focus:ring-blue-500 focus:border-blue-500 block w-full p-4"
+                  className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-[100px] focus:ring-blue-500 focus:border-blue-500 block w-full p-6"
                 />
-                <button className="absolute top-1 right-3 bg-[#000000] text-white rounded-[100px] px-4 py-3">Notify Me</button>
+                <button className="absolute top-[6.5px] right-2 bg-[#000000] text-white rounded-[100px] px-4 py-4">Notify Me</button>
               </div>
             </form>
           </div>
