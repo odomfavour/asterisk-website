@@ -5,7 +5,7 @@ import SolutionsSection from "../components/home/SolutionsSection";
 
 const index = () => {
   return (
-    <div>
+    <div className=" font-montserrat">
       <HeaderSection />
       <HeroSection />
       <SolutionsSection />

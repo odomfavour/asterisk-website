@@ -3,11 +3,11 @@ const ComingSection = () => {
   return (
     <div className="py-14 bg-[#302F27] text-white">
       <div className="w-11/12 mx-auto">
-        <div className="grid md:grid-cols-2 grid-cols-1  gap-10">
+        <div className="grid md:grid-cols-2 grid-cols-1  gap-16">
           <div>
-            <p className="text-lg font-bold">— Coming Soon</p>
-            <p className="text-[40px] font-bold">Get Notified</p>
-            <p className="text-[32px] font-bold">When we Launch</p>
+            <p className="text-2xl font-bold">— Coming Soon</p>
+            <p className="text-[54px] font-bold">Get Notified</p>
+            <p className="text-[38px] font-bold">When we Launch</p>
             <p className="text-base font-bold">*Don’t worry, we wil not spam you :)</p>
           </div>
           <div className=" flex items-center">
