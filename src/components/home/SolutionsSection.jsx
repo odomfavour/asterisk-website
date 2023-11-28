@@ -1,31 +1,30 @@
-import solution from '../../assets/images/drone.svg'
+import solution from "../../assets/images/drone.svg";
 
 const SolutionsSection = () => {
-
   return (
     <div className="bg-[#F7E7E6] py-14">
       <div className="w-11/12 mx-auto">
         <div className="grid md:grid-cols-2 grid-cols-1 gap-14">
           <div>
-            <p className='text-lg font-medium'>WE SPECIALIZE IN</p>
+            <p className="text-lg font-medium">WE SPECIALIZE IN</p>
             <p className="text-[40px] font-bold text-[#CC0000]">
               DIGITAL
               <br /> BUSINESS <br /> SOLUTIONS
             </p>
-            <p className='text-base'>
+            <p className="text-base">
               AsteriskRD Inc, an innovative tech development company,
               specializes in bespoke tech solutions empowering businesses. Our
               client-centric approach ensures excellence, making us a trusted
               partner.
             </p>
 
-            <p className='text-base'>
+            <p className="text-base">
               Rooted in a vision to deliver high-quality, customized solutions,
               we stand ready to pioneer transformative technology, aiding
               clients in thriving within the digital landscape.
             </p>
-            <div className='mt-6'>
-                <img src={solution} alt="" className='w-full'/>
+            <div className="mt-6">
+              <img src={solution} alt="" className="w-full" />
             </div>
           </div>
           <div>
